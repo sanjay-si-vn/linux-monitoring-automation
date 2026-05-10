@@ -131,3 +131,15 @@ Sanjay
 * Cron job automation
 * Grafana dashboard integration
 * Cloud deployment (AWS EC2)
+
+## screenshots 
+<img width="979" height="423" alt="Screenshot 2026-05-10 200625" src="https://github.com/user-attachments/assets/5e8d414a-ed42-455f-9165-1278a87d21a6" />
+<img width="1919" height="563" alt="Screenshot 2026-05-10 200646" src="https://github.com/user-attachments/assets/6d46d8c8-c2ae-468a-a091-c72139c61ce0" />
+<img width="1481" height="379" alt="Screenshot 2026-05-10 200701" src="https://github.com/user-attachments/assets/9dc60bf1-f18e-4839-ac8b-d085eb6507b0" />
+<img width="1056" height="778" alt="Screenshot 2026-05-10 200716" src="https://github.com/user-attachments/assets/6dce7dc9-0be5-49af-a6c2-5fd389603cdc" />
+<img width="557" height="298" alt="Screenshot 2026-05-10 200838" src="https://github.com/user-attachments/assets/71763b79-2686-4231-9ab7-574eadf249a7" />
+
+
+
+
+
